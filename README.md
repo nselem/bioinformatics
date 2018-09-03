@@ -9,7 +9,9 @@ Septiembre 20 Linux
 Septiembre 21 Google drive  
 Septiembre 27 Git y markdown  
 Septiembre 28 Herramientas genómicas  
-## Tema 1  
+Octubre 4  Trabajo en proyecto propio  
+Octubre 5  Presentación de proyecto.  
+## Temario detallado  
 <table>
   <tr><td>
     <b> Bloque I INFORMATICA BÁSICA </b> <br>
