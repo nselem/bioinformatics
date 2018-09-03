@@ -68,57 +68,46 @@ SETUP
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Wiki de problemas de instalación y sus soluciones. </a>.
 </p>
 
-<div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
-  <h3>The Bash Shell</h3>
+<div id="shell">  
+  <h3>The Bash Shell</h3>  
+  <p>  
+    Bash is a commonly-used shell that gives you the power to do simple  
+    tasks more quickly.  
+  </p>  
 
-  <p>
-    Bash is a commonly-used shell that gives you the power to do simple
-    tasks more quickly.
-  </p>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="shell-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
-      <ol>
-        <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
-        <li>Run the installer and follow the steps bellow:
-          <ol>
-            {% comment %} Git 2.8.2 Setup {% endcomment %}
-            {% comment %} Information {% endcomment %}
+  <div class="row">  
+    <div class="col-md-4">  
+      <h4 id="shell-windows">Windows</h4>  
+      <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>  
+      <ol>  
+        <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>  
+        <li>Run the installer and follow the steps bellow:  
+          <ol>  
+            <li>Click on "Next".</li>  
+            <li>Click on "Next".</li>    
+            <li>  
+              <strong>  
+                Keep "Use Git from the Windows Command Prompt" selected and click on "Next".  
+              </strong>  
+                If you forgot to do this programs that you need for the workshop will not work properly.  
+                If this happens rerun the installer and select the appropriate option.  
+            </li>  
             <li>Click on "Next".</li>
-            {% comment %} Select Components {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %} Adjusting your PATH environment {% endcomment %}
-            <li>
-              <strong>
-                Keep "Use Git from the Windows Command Prompt" selected and click on "Next".
-              </strong>
-                If you forgot to do this programs that you need for the workshop will not work properly.
-                If this happens rerun the installer and select the appropriate option.
-            </li>
-            {% comment %} Choosing the SSH executable {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %} Configuring the line ending conversions {% endcomment %}
-            <li>
-              <strong>
+            <li>  
+              <strong>  
                 Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
               </strong>
             </li>
-            {% comment %} Configuring the terminal emulator to use with Git Bash {% endcomment %}
-            <li>
-              <strong>
-                Keep "Use Windows' default console window" selected and click on "Next".
-              </strong>
-            </li>
-            {% comment %} Configuring experimental performance tweaks {% endcomment %}
+            <li>  
+              <strong>  
+                Keep "Use Windows' default console window" selected and click on "Next".  
+              </strong>  
+            </li>  
             <li>Click on "Install".</li>
-            {% comment %} Installing {% endcomment %}
-            {% comment %} Completing the Git Setup Wizard {% endcomment %}
-            <li>Click on "Finish".</li>
-          </ol>
-        </li>
-        <li>
+            <li>Click on "Finish".</li>  
+          </ol>  
+        </li>  
+        <li>  
           If your "HOME" environment variable is not set (or you don't know what this is):
           <ol>
             <li>Open command prompt (Open Start Menu then type <code>cmd</code> and press [Enter])</li>
@@ -156,4 +145,4 @@ SETUP
       </p>
     </div>
   </div>
-</div> {% comment %} End of 'shell' section. {% endcomment %}
+</div> 
