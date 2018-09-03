@@ -13,46 +13,45 @@ Septiembre 28 Herramientas genómicas
 <table>
   <tr><td>
     <b> Bloque I INFORMATICA BÁSICA </b> <br>
-Linux/Unix, Pr incipios básicos del Shell  <br>
-Comandos para el manejo de archivos y directorios   <br>
-Loops   <br>
-Manejo de Scripts    <br>
-Encontrar información: grep y find. <br>
+1.1 Linux/Unix, Pr incipios básicos del Shell  <br>
+1.2 Comandos para el manejo de archivos y directorios   <br>
+1.3 Loops   <br>
+1.4 Manejo de Scripts    <br>
+1.5 Encontrar información: grep y find. <br>
     </td>
     <td>
 <b> Tema 2  Google y la organización de documentos </b><br>
-Formas: Crear encuestas presentables. <br>
-Drive documentos del laboratorio, compartir documentos <br>
-Sites crear una página para el laboratorio <br>
-Calendar Organizar la agenda. <br>
-Tareas Organizar las tareas diarias. <br>
+2.1 Formas: Crear encuestas presentables. <br>
+2.2 Drive documentos del laboratorio, compartir documentos <br>
+2.3 Sites crear una página para el laboratorio <br>
+2.4 Calendar Organizar la agenda. <br>
+2.5 Tareas Organizar las tareas diarias. <br>
     </td></tr>
     <tr><td>
 <b> Tema 3  El respaldo y documentación de scripts </b> <br>
-La importancia de documentar y respaldar el trabajo informático <br>
-Git Guardar los scripts en internet <br>
-MD Crear documentación organizada <br>
-Wiki git Documentar extensivamente scripts <br>
-Ejemplos: R también tiene markdown (MD) para documentar procedimientos <br>
+3.1 La importancia de documentar y respaldar el trabajo informático <br>
+3.2 Git Guardar los scripts en internet <br>
+3.3 MD Crear documentación organizada <br>
+3.4 Wiki git Documentar extensivamente scripts <br>
+3.5 Ejemplos: R también tiene markdown (MD) para documentar procedimientos <br>
 Docker y la repetibilidad de resultados en maquinas <br>
       </td>
       <td>
-        <b> Tema 4  Herramientas de genómica </b> <br>
-Descargar datos NCBI (Linux) <br>
-Cómo tomar metadatos en proyectos genómicos <br>
-MicroReact y la visualización de metadatos. <br>
-Editar archivos para microreact: One liners <br>
-Seaview crear un arbol para microreact. <br>
+        <b> Tema 4  Herramientas de genómica </b> <br>  
+4.1 Descargar datos NCBI (Linux) <br>  
+4.2 Cómo tomar metadatos en proyectos genómicos <br>  
+4.3 MicroReact y la visualización de metadatos. <br>  
+4.4 Editar archivos para microreact: One liners <br>  
+4.5 Seaview crear un arbol para microreact. <br>  
         
-      </td>
-  </tr>
+      </td> </tr>
   </table>  
     
 ## Instalaciones y requerimientos previos  
-<h2 id="setup">Setup</h2>
+<h2 id="setup">Setup</h2>  
 
 <p>
-  Para participar en este taller necesitas acceso al siguiente software. Además necesitarás acceso a un navegador como chrome o firefo   
+  Para participar en este taller necesitas acceso al siguiente software. Además necesitarás acceso a un navegador como chrome o firefox.   
   </p>
 <p>
   Aqui hay una referencia de posibles problemas durante la instalación.  
