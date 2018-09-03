@@ -36,6 +36,12 @@ Descargar genomas y otros datos NCBI (Linux)
 Ensamblar genomas en Patrick
 Anotar genomas bacterianos en RAST
 Mineria genómica tradicional
+MicroReact
+Editar archivos 
+Visualizar metadatos
+        One liners
+        Seaview
+        
       </td>
   </tr>
   </table>
