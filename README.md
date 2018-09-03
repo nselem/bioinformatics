@@ -42,9 +42,7 @@ Docker y la repetibilidad de resultados en maquinas <br>
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
 4.4 Editar archivos para microreact: One liners <br>  
-4.5 Seaview crear un arbol para microreact. <br>  
-        
-      </td> </tr>
+4.5 Seaview crear un arbol para microreact. <br>   </td> </tr>
   </table>  
     
 ## Instalaciones y requerimientos previos  
