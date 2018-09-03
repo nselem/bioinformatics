@@ -47,17 +47,6 @@ Visualizar metadatos
   </table>  
     
 ## Instalaciones y requerimientos previos  
-SETUP
-
-  Delete irrelevant sections from the setup instructions.  Each
-  section is inside a 'div' without any classes to make the beginning
-  and end easier to find.
-
-  This is the other place where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
-
 <h2 id="setup">Setup</h2>
 
 <p>
@@ -69,10 +58,9 @@ SETUP
 </p>
 
 <div id="shell">  
-  <h3>The Bash Shell</h3>  
+  <h3>El Bash Shell</h3>  
   <p>  
-    Bash is a commonly-used shell that gives you the power to do simple  
-    tasks more quickly.  
+    Bash es un intérprete de comandosque te da poder de hacer tareas simples rápidamente.  
   </p>  
 
   <div class="row">  
@@ -80,68 +68,63 @@ SETUP
       <h4 id="shell-windows">Windows</h4>  
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>  
       <ol>  
-        <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>  
-        <li>Run the installer and follow the steps bellow:  
+        <li>Baja para windows <a href="https://git-for-windows.github.io/">el instalador de git </a>.</li>  
+        <li>Corre el instalador y sigue los siguientes pasos:  
           <ol>  
-            <li>Click on "Next".</li>  
-            <li>Click on "Next".</li>    
+            <li>Click en "Next".</li>  
+            <li>Click en "Next".</li>    
             <li>  
               <strong>  
-                Keep "Use Git from the Windows Command Prompt" selected and click on "Next".  
+               Manten el "Use Git from the Windows Command Prompt" seleccioinado y  click en "Next".  
               </strong>  
-                If you forgot to do this programs that you need for the workshop will not work properly.  
-                If this happens rerun the installer and select the appropriate option.  
+                Si se te olvida hacer esto algunos programas que necesitarás no funcionaran correctamente.  
+                Si esto te pasa regrésate al paso anterior del instalador y selecciona la opción correcta.  
             </li>  
-            <li>Click on "Next".</li>
+            <li>Click en "Next".</li>
             <li>  
               <strong>  
-                Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
+                Mantén "Checkout Windows-style, commit Unix-style line endings" seleccionado y click en "Next".
               </strong>
             </li>
             <li>  
               <strong>  
-                Keep "Use Windows' default console window" selected and click on "Next".  
+                Mantén "Use Windows' default console window" seleccionado y click en "Next".  
               </strong>  
             </li>  
-            <li>Click on "Install".</li>
-            <li>Click on "Finish".</li>  
+            <li>Click en "Install".</li>
+            <li>Click en "Finish".</li>  
           </ol>  
         </li>  
         <li>  
-          If your "HOME" environment variable is not set (or you don't know what this is):
+          si tu variable de ambiente "HOME" no está lista (o no sabes qué es esto):
           <ol>
-            <li>Open command prompt (Open Start Menu then type <code>cmd</code> and press [Enter])</li>
+            <li>Abre el prompt (Abre el menu start, escribe <code>cmd</code> y presiona enter [Enter])</li>
             <li>
-              Type the following line into the command prompt window exactly as shown:
-              <p><code>setx HOME "%USERPROFILE%"</code></p>
-            </li>
-            <li>Press [Enter], you should see <code>SUCCESS: Specified value was saved.</code></li>
-            <li>Quit command prompt by typing <code>exit</code> then pressing [Enter]</li>
+              Escribe la siguiente línea en la ventana del promt exactamente como se  muestra:  
+              <p><code>setx HOME "%USERPROFILE%"</code></p>  
+            </li>  
+            <li>Presiona [Enter], debes de ver <code>SUCCESS: Specified value was saved.</code></li>
+            <li>Para salir del prompr escribe <code>exit</code> y presiona enter [Enter]</li>
           </ol>
         </li>
       </ol>
-      <p>This will provide you with both Git and Bash in the Git Bash program.</p>
+      <p>Esto te dará ambos Git y Bash en el programa Git Bash.</p>
     </div>
     <div class="col-md-4">
       <h4 id="shell-macosx">macOS</h4>
       <p>
-        The default shell in all versions of macOS is Bash, so no
-        need to install anything.  You access Bash from the Terminal
-        (found in
-        <code>/Applications/Utilities</code>).
-        See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
+        El shell por default en todas las versiones de macOS es Bash, asi que no debes instalar nada.  Podrás accesar a Bash desde la Terminal
+        (que se encuentra en        <code>/Applications/Utilities</code>).
+        Para la instalación de Git aqui tenemos un <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
         for an example on how to open the Terminal.
-        You may want to keep
-        Terminal in your dock for this workshop.
+        Tal vez quieras mantener la Terminal en tu dock para este taller.  
       </p>
     </div>
     <div class="col-md-4">
       <h4 id="shell-linux">Linux</h4>
       <p>
-        The default shell is usually Bash, but if your
-        machine is set up differently you can run it by opening a
-        terminal and typing <code>bash</code>.  There is no need to
-        install anything.
+        El shell es usualmente Bash, pero si tu máquina es diferente puedes abrir una terminal y escribir <code>bash</code>.  
+        No se necesita intalar nada
       </p>
     </div>
   </div>
