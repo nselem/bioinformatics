@@ -2,13 +2,13 @@
 Herramientas LINUX, GIT, Google docks  
 
 ## Informacion General  
+Documento compartido: https://etherpad.net/p/bioinformatica  
 ## Encuestas  
 ## Calendario  
 ## Tema 1  
 <table>
   <tr><td>
-Bloque I
-INFORMATICA BÁSICA
+    <b> Bloque I INFORMATICA BÁSICA </b>
 Linux/Unix, Principios básicos del Shell
 Comandos para el manejo de archivos y directorios
 Manejo de Scripts
