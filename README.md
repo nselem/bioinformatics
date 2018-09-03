@@ -44,6 +44,7 @@ Visualizar metadatos
         
       </td>
   </tr>
-  </table>
+  </table>  
+    
 ## Instalaciones y requerimientos previos  
 
