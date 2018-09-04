@@ -1,4 +1,4 @@
-# Bioinformatica  
+# Bioinformática  
 ![langebio](imagenes/langebio.png)  
 
 En este curso aprenderás un poco de las herramientas linux, git, Google docs y microreact.  
@@ -14,7 +14,7 @@ Septiembre 20 Linux               |   Septiembre 27 Git y markdown       |    Oc
 Septiembre 21 Google drive        |  Septiembre 28 Herramientas genómicas|    Octubre 5  Presentación de proyecto.         | 
 
 ## Temario detallado  
-<table> <tr><td> <b> Tema 1 INFORMATICA BÁSICA </b> <br>
+<table> <tr><td> <b> Tema 1 Linux bash </b> <br>
 1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br>
