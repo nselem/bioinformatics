@@ -2,7 +2,7 @@
 Herramientas LINUX, GIT, Google docks  
 
 ## Informacion General  
-Documento compartido: https://etherpad.net/p/bioinformatica  
+[Documento compartido](https://etherpad.net/p/bioinformatica  )
 ## Encuestas  
 ## Calendario  
 Septiembre 20 Linux  
