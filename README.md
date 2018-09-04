@@ -1,4 +1,5 @@
 # Bioinformatica  
+[!langebio](imagenes/langebio.png)
 Herramientas LINUX, GIT, Google docks  
 
 ## Informacion General  
@@ -14,8 +15,8 @@ Septiembre 21 Google drive        |  Septiembre 28 Herramientas genómicas|    O
 ## Temario detallado  
 <table>
   <tr><td>
-    <b> [Tema I](paginas/drive/sitios.html) INFORMATICA BÁSICA </b> <br>
-1.1 Linux/Unix, Pr incipios básicos del Shell  <br>
+    <b> [!Tema I](paginas/drive/sitios.html) INFORMATICA BÁSICA </b> <br>
+1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br>
 1.4 Manejo de Scripts    <br>
