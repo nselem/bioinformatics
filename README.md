@@ -14,7 +14,7 @@ Octubre 5  Presentación de proyecto.
 ## Temario detallado  
 <table>
   <tr><td>
-    <b> Bloque I INFORMATICA BÁSICA </b> <br>
+    <b> [Tema I](paginas/drive/sitios.html) INFORMATICA BÁSICA </b> <br>
 1.1 Linux/Unix, Pr incipios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br>
