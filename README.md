@@ -4,7 +4,7 @@
 En este curso aprenderás un poco de las herramientas linux, git, Google docs y microreact.  
 
 ## Informacion General  
-Aqui puedes encontrar un [documento compartido](https://etherpad.net/p/bioinformatica  ) donde compartiremos infromación relevante, links, y respuestas a preguntas que surjan durante el taller.  
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos infromación relevante, links, y respuestas a preguntas que surjan durante el taller.  
 
 ## Calendario  
 
