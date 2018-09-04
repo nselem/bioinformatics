@@ -9,7 +9,7 @@ Septiembre 20 Linux
 Septiembre 21 Google drive  
 Septiembre 27 Git y markdown  
 Septiembre 28 Herramientas genómicas  
-Octubre 4  Trabajo en proyecto propio  
+Octubre 4  Trabajo en proyecto propio y/o temas específicos.  
 Octubre 5  Presentación de proyecto.  
 ## Temario detallado  
 <table>
