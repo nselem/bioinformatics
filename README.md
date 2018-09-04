@@ -3,8 +3,7 @@
 
 En este curso aprenderás un poco de las herramientas linux, git, Google docs y microreact.  
 
-## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo. 
+
 
 ## Calendario  
 
@@ -12,6 +11,9 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinfo
 ----------------------------------|--------------------------------------|-------------------------------------------------|
 Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](https://swcarpentry.github.io/git-novice-es/) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
 Septiembre 21 [Google drive](https://support.google.com/drive/answer/2424384?co=GENIE.Platform%3DDesktop&hl=es#)        |  Septiembre 28 [Herramientas genómicas](https://microreact.org/showcase)|    Octubre 5  Presentación de proyecto.         | 
+
+## Informacion General  
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
 ## Temario detallado  
 <table> <tr><td> <b> Tema 1 Linux bash </b> <br>
