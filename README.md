@@ -10,7 +10,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinfo
 
 |        Semana 1                 |            Semana 2                  |      Semana 3                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|
-Septiembre 20 Linux               |   Septiembre 27 Git y markdown       |    Octubre 4  Proyectos y/o temas específicos.  |
+Septiembre 20 [Linux](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 Git y markdown       |    Octubre 4  Proyectos y/o temas específicos.  |
 Septiembre 21 Google drive        |  Septiembre 28 Herramientas genómicas|    Octubre 5  Presentación de proyecto.         | 
 
 ## Temario detallado  
