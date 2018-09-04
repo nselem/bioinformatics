@@ -14,41 +14,33 @@ Septiembre 20 Linux               |   Septiembre 27 Git y markdown       |    Oc
 Septiembre 21 Google drive        |  Septiembre 28 Herramientas genómicas|    Octubre 5  Presentación de proyecto.         | 
 
 ## Temario detallado  
-<table>
-  <tr><td>
-    <b> Tema 1 INFORMATICA BÁSICA </b> <br>
+<table> <tr><td> <b> Tema 1 INFORMATICA BÁSICA </b> <br>
 1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br>
 1.4 Manejo de Scripts    <br>
-1.5 Encontrar información: grep y find. <br>
-    </td>
-    <td>
-<b> Tema 2  Google y la organización de documentos </b><br>
+1.5 Encontrar información: grep y find. <br> </td>
+    <td> <b> Tema 2  Google y la organización de documentos </b><br>
 2.1 Formas: Crear encuestas presentables. <br>
 2.2 Drive documentos del laboratorio, compartir documentos <br>
 2.3 Sites crear una página para el laboratorio <br>
 2.4 Calendar Organizar la agenda. <br>
-2.5 Tareas Organizar las tareas diarias. <br>
-    </td></tr>
-    <tr><td>
-<b> Tema 3  El respaldo y documentación de scripts </b> <br>
+2.5 Tareas Organizar las tareas diarias. <br></td></tr>
+    <tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
 3.3 MD Crear documentación organizada <br>
 3.4 Wiki git Documentar extensivamente scripts <br>
 3.5 Ejemplos: R también tiene markdown (MD) para documentar procedimientos <br>
-Docker y la repetibilidad de resultados en maquinas <br>
-      </td>
-      <td>
-        <b> Tema 4  Herramientas de genómica </b> <br>  
+Docker y la repetibilidad de resultados en maquinas <br></td>
+      <td> <b> Tema 4  Herramientas de genómica </b> <br>  
 4.1 Descargar datos NCBI (Linux) <br>  
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
 4.4 Editar archivos para microreact: One liners <br>  
-4.5 Seaview crear un arbol para microreact. <br>   </td> </tr>
-  </table>  
-    
+4.5 Seaview crear un arbol para microreact. <br>   </td> </tr> </table>    
+       
+____________
 ## Instalaciones y requerimientos previos  
 <h2 id="setup">Setup</h2>  
 
