@@ -10,8 +10,8 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinfo
 
 |        Semana 1                 |            Semana 2                  |      Semana 3                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|
-Septiembre 20 [Linux](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](https://swcarpentry.github.io/git-novice-es/) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
-Septiembre 21 Google drive        |  Septiembre 28 Herramientas genómicas|    Octubre 5  Presentación de proyecto.         | 
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](https://swcarpentry.github.io/git-novice-es/) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
+Septiembre 21 [Google drive](https://support.google.com/drive/answer/2424384?co=GENIE.Platform%3DDesktop&hl=es#)        |  Septiembre 28 [Herramientas genómicas](https://microreact.org/showcase)|    Octubre 5  Presentación de proyecto.         | 
 
 ## Temario detallado  
 <table> <tr><td> <b> Tema 1 Linux bash </b> <br>
