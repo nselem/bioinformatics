@@ -5,12 +5,13 @@ Herramientas LINUX, GIT, Google docks
 [Documento compartido](https://etherpad.net/p/bioinformatica  )
 ## Encuestas  
 ## Calendario  
-Septiembre 20 Linux  
-Septiembre 21 Google drive  
-Septiembre 27 Git y markdown  
-Septiembre 28 Herramientas genómicas  
-Octubre 4  Trabajo en proyecto propio y/o temas específicos.  
-Octubre 5  Presentación de proyecto.  
+
+|        Semana 1                 |            Semana 2                  |      Semana 3                                   |
+----------------------------------|--------------------------------------|-------------------------------------------------|
+
+Septiembre 20 Linux                  Septiembre 27 Git y markdown            Octubre 4  Proyectos y/o temas específicos.  
+Septiembre 21 Google drive           Septiembre 28 Herramientas genómicas    Octubre 5  Presentación de proyecto.  
+
 ## Temario detallado  
 <table>
   <tr><td>
