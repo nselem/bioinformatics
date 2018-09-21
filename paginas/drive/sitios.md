@@ -50,6 +50,5 @@ Vamos a modificar la página `oligos` para que contenga nuestra forma.  Regresa 
 
 
 ## Google app
-En esta sección vamos a crear una app a partir de nuestra forma.  
-Necesitamos instalar Appsheet  
+Una app es una aplicación a la que puedes accesar desde tu  teléfono móvil, en ocasiones para nuestrps fines es más fácil tomar los datos desde tu teléfono que abrir tu computadora. En esta sección vamos a crear una app a partir de nuestra forma. Primero necesitamos instalar Appsheet, para ello vamos a necesitar una cuenta en [appsheet](https://www.appsheet.com/) Selecciona login en la parte superior derecha y luego escoge google. Selecciona tu cuenta y cotraseña para registrate en Appsheet. Escoge permitir. ¡Listo! Ahora que tienes una cuenta de Appsheet volvamos a tu google drive. 
 
