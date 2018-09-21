@@ -29,13 +29,23 @@ __Ejercicio 5__
 Compárte la forma por correo con tu compañero de al lado.   
 
 Cómo utilizar bash en este inventario de oligos. Primero vamos todos a contestar mi encuesta. Puedes encontrar el link en el ethernet (documento compartido)
-Ahora te voy a compartir la hoja de cálculo de los resultados. Descarga esta hoja de cálculo a tu carpeta datashell. (Puedes utilizar el comando mv)  
+Ahora te voy a compartir la hoja de cálculo de los resultados. Descarga esta hoja de cálculo a tu carpeta datashell. Para moverlo a datashell puedes utilizar el comando mv o tu interfaz de ventanas.  
+  
 __Ejercicio 6__   
-` Ahora busca todos los oligos que pertenecen a los usuarios cuyo nombre empieza con "H".`    
+` Ahora busca en esta hoja de cálculo todos los oligos que pertenecen a los usuarios cuyo nombre empieza con "H".`    
 
-## Google sites
+## Google sites  
 Aquí vamos a crear una página donde poner nuestra forma    
 https://sites.google.com/new   
+Vamos a crear tu nuevo sitio
+`haz click en + para crear tu nuevo sitio`  
+
+Cambia el título a página de mi laboratorio. Ahora ya estás listo para publicar tu sitio. 
+`Haz click en el botón azul publicar` te preguntará la dirección, vamos a poner `langebioMyLaboratorio`  y haz click nuevamente en el botón publicar. Para ver tu sitio web haz click en la flecha al lado del botón publicar y selecciona `ver el sitio publicado`.  
+
+
+
+En la parte superior izquierda coloca un nombre a tu nueva página  
 
 ## Google app
 En esta sección vamos a crear una app a partir de nuestra forma.  
