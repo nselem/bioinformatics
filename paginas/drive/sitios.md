@@ -11,7 +11,7 @@ Para estos ejercicios puedes consultar el manual [primeros pasos en google drive
 La herramienta Google Docs almacena varios tipos de documentos, por ejemplo maneja slides para crear presentaciones, documento de google (algo asi como word) y finalmentetenemos a la hoja de cálculo de google muy parecida a excel. Todos estos documentos los puedes compartir con tus colaboradores para que todos trabajen en el mismo documento a la vez, puedes darles permiso sólo de ver o de ver y editar.  
   
 __Ejercicio 3__  
-` Crea un documento de google y compartelo con tu compañero de al lado. En el documento de tu compañero escribe tu nombre y realiza en él.`    
+` Crea un documento de google escribe tu nombre en él y compartelo con tu compañero de al lado. Ahora, en el documento que te compartió  tu compañero escribe tu nombre e inserta en comentario sobre el nombre de tu compañero cuántos años llevas conociéndolo.`    
 __Ejercicio 4__  
 ` Edita el documento de tu comañero en modo revisión.`    
 
@@ -20,7 +20,7 @@ Las formas son la herramienta de google que sirve para crear una encuesta. Los r
   
 Las formas pueden ser utilizadas para estandarizar procesos como toma de datos para cepario o pedidos de compras de los estudiantes.  
 __Ejercicio 5__  
-> Crea una forma con las siguientes preguntas: 
+> Crea una forma con las siguientes preguntas:  
 > Pregunta 1: Dueño de oligos  
 > Pregunta 2: nombre del gen (campo de texto)  
 > Pregunta 2: Sequencia   
@@ -48,4 +48,4 @@ Ahora vamos a agregar una página para nuestra forma, por un lado queremos que e
 
 Vamos a modificar la página `oligos` para que contenga nuestra forma.  Regresa a insertar y selecciona el diseño de dos columnas. Puls el botón `+` en la primera columna, selecciona drive y agrega tu formulario. En la siguiente columna pulsa nuevamente el bbotón más y agrega la hoja de respuestas. Finalmente publica tus cambios con el botón azul `publicar` y luego visualiza la página.   
 
-
+Eisten también aplicaciones para transformar las encuestas en apps de teléfono móvil, no encontré gratuitas. Una de ellas muy fácil de usar es [appsheet](https://www.appsheet.com/)
