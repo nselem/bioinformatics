@@ -40,12 +40,14 @@ https://sites.google.com/new
 Vamos a crear tu nuevo sitio
 `haz click en + para crear tu nuevo sitio`  
 
-Cambia el título a página de mi laboratorio. Ahora ya estás listo para publicar tu sitio. 
+En la parte superior izquierda coloca un nombre a tu nueva página. Luego, cambia el título a página de mi laboratorio. Ahora ya estás listo para publicar tu sitio. 
+  
 `Haz click en el botón azul publicar` te preguntará la dirección, vamos a poner `langebioMyLaboratorio`  y haz click nuevamente en el botón publicar. Para ver tu sitio web haz click en la flecha al lado del botón publicar y selecciona `ver el sitio publicado`.  
 
+Ahora vamos a agregar una página para nuestra forma, por un lado queremos que el formulario esté disponible para agregar nuevos oligos, y por otro queremos que los usuarios puedan ver la hoja de respuestas pero que no puedan modificarla.  Para agregar una pgina haz click en `páginas` en la parte superior del navegador y después presiona el signo `+ `. Ahora va a preguntarte el nombre de la página, vamos a llamarle `oligos`, presiona `finalizar` para terminar de crear la página.    
 
+Vamos a modificar la página `oligos` para que contenga nuestra forma.  Regresa a insertar y selecciona el diseño de dos columnas. Puls el botón `+` en la primera columna, selecciona drive y agrega tu formulario. En la siguiente columna pulsa nuevamente el bbotón más y agrega la hoja de respuestas. Finalmente publica tus cambios con el botón azul `publicar` y luego visualiza la página.   
 
-En la parte superior izquierda coloca un nombre a tu nueva página  
 
 ## Google app
 En esta sección vamos a crear una app a partir de nuestra forma.  
