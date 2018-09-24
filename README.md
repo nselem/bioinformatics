@@ -9,7 +9,7 @@ En este curso aprenderás un poco de las herramientas linux, git, Google docs y 
 
 |        Semana 1                 |            Semana 2                  |      Semana 3                                   |
 ----------------------------------|--------------------------------------|-------------------------------------------------|
-Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](https://swcarpentry.github.io/git-novice-es/) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
+Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](paginas/git/sesion3.html) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |    Octubre 4  Proyectos y/o temas específicos.  |
 Septiembre 21 [Google drive](paginas/drive/sitios.md)        |  Septiembre 28 [Herramientas genómicas](https://microreact.org/showcase)|    Octubre 5  Presentación de proyecto.         | 
 
 ## Informacion General  
