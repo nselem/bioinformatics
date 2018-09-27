@@ -16,7 +16,7 @@ Microreact es una plataforma de visualización de datos especializado en epidemi
 
 Nosotros utilizaremos esta plataforma para ver los lugares y años donde nacimos todos nosotros!   
 
-###   Ejercicio Primera parte
+###   Ejercicio primera parte
 Llena con tus datos la [Hoja de cáculo de google drive ](https://docs.google.com/spreadsheets/d/1unage_MobPV6Rv006GFud4lxfiFEfm0mrZwa_KPIuEo/edit?usp=sharing)
   
 Para agregar las coordenadas de tu lugar de nacimiento:
@@ -27,7 +27,7 @@ Para agregar las coordenadas de tu lugar de nacimiento:
 5) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso 1)
 
 
-###   Ejercicio Segunda parte
+###   Ejercicio segunda parte
 a) Abre [Microreact  ](https://microreact.org/)  
 b) Inicia sesión utilizando tu cuenta de gmail  
 c) Da click en Upload  
@@ -37,12 +37,13 @@ e) da click en continue (without three)
 f) Ingresa el título de tu proyecto de visualización
 g) Visualiza tus resultados!
 
+### Visualización simultánea de árboles y mapas
 Ahora regresa a la página principal de microrreact.  
 Selecciona el proyecto 'Zika virus in the Americas' y discute con tu compañero de al lado:  
 ¿En dónde se tuvo el primer registro de este virus?  
 ¿Cuál fue el primer lugar de América en el que se detectó zika?  
 ¿En qué año fue la epidemia que se describe en este artículo?  
-¿Cuál es el ancestro más cercano a los virus de la epidemia?
+¿Cuál es el ancestro más cercano a los virus de la epidemia?  
 ¿Cuántos sitios de microencefalia en Brasil reportaron?
 
 
