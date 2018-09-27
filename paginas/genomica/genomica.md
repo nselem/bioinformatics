@@ -34,6 +34,6 @@ c) Da click en Upload
 d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Archivo->Publicar'
 d) Pega el link donde pide un archivo .csv
 e) da click en continue (without three)
-f) Visualiza los resultados!
+f) Ingresa el título de tu proyecto de visualización
 
 
