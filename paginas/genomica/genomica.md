@@ -12,7 +12,7 @@ La primera parte de la leccion de hoy será parte del programa de genómica de S
 
 ## Visualizando datos en [Microreact  ](https://microreact.org/)   
 
-Microreact es una plataforma de visualización de datos especializado en epidemiología genómica. En particular ayuda a visualizar árboles filogenéticos y mapas con los lugares dónde ocurrieron las infecciones.  
+Microreact es una plataforma de visualización de datos especializado en epidemiología genómica. En particular ayuda a explorar árboles filogenéticos y mapas con los lugares dónde ocurrieron las infecciones.  
 
 Nosotros utilizaremos esta plataforma para ver los lugares y años donde nacimos todos nosotros!   
 
