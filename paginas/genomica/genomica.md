@@ -6,9 +6,10 @@
 3. Haz un readme  
 4.  Sube una imagen al readme   
 
-## Metadatos  
 La primera parte de la leccion de hoy será parte del programa de genómica de Software Carpentry: [Manejo de Datos Genómicos ](https://datacarpentry.org/genomics-workshop/) la segunda parte será un visualizador de datos genómicos: [microReact](https://microreact.org/showcase)  
 
+## Metadatos  
+Los metadatos son datos sobre los datos usualmente vienen en una tabla de excel, hay una serie de consejos sobre buenas prácticas de toma de metadatos. En cuanto a los datos las buenas prácticas nos dicen que siempre conservemos los datos originales.    
 
 ## Visualizando datos en [Microreact  ](https://microreact.org/)   
 
