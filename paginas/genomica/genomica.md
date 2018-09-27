@@ -25,8 +25,9 @@ Para agregar las coordenadas de tu lugar de nacimiento:
 2) Busca tu lugar de nacimiento
 3) Da click derecho sobre el lugar del que quieres extraer las coordenadas. Debe aparecer un cuadrito en la parte inferior del mapa    
 4) Pulsa sobre las coordenadas que están abajo del cuadro
-5) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso 1)
+5) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso  
 
+## Recuerda que cuando se llena la hoja de cálculo se deben seguir las buenas prácticas de colecta de metadatos.
 
 ###   Ejercicio segunda parte
 a) Abre [Microreact  ](https://microreact.org/)  
@@ -40,12 +41,13 @@ h) Visualiza tus resultados!
 
 ### Visualización simultánea de árboles y mapas
 Ahora regresa a la página principal de microrreact.  
-Selecciona el proyecto 'Zika virus in the Americas' y discute con tu compañero de al lado:  
+Selecciona el proyecto 'Zika virus in the Americas', discute con tu compañero de al lado y escriban sus respuestas en el documento colaborativo.  
 ¿En dónde se tuvo el primer registro de este virus?  
 ¿Cuál fue el primer lugar de América en el que se detectó zika?  
 ¿En qué año fue la epidemia que se describe en este artículo?  
 ¿Cuál es el ancestro más cercano a los virus de la epidemia?  
 ¿Cuántos sitios de microencefalia en Brasil reportaron?
+¿Cuáles virus tienen el genoma más grande y más chico?
 
 
 
