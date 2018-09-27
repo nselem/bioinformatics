@@ -31,11 +31,11 @@ Para agregar las coordenadas de tu lugar de nacimiento:
 a) Abre [Microreact  ](https://microreact.org/)  
 b) Inicia sesión utilizando tu cuenta de gmail  
 c) Da click en Upload  
-d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Archivo->Publicar'
-d) Pega el link donde pide un archivo .csv
-e) da click en continue (without three)
-f) Ingresa el título de tu proyecto de visualización
-g) Visualiza tus resultados!
+d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Archivo->Publicar'  
+e) Pega el link donde pide un archivo .csv  
+f) da click en continue (without three)  
+g) Ingresa el título de tu proyecto de visualización  
+h) Visualiza tus resultados!  
 
 ### Visualización simultánea de árboles y mapas
 Ahora regresa a la página principal de microrreact.  
