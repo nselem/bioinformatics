@@ -35,5 +35,18 @@ d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Arch
 d) Pega el link donde pide un archivo .csv
 e) da click en continue (without three)
 f) Ingresa el título de tu proyecto de visualización
+g) Visualiza tus resultados!
+
+Ahora regresa a la página principal de microrreact.  
+Selecciona el proyecto 'Zika virus in the Americas' y discute con tu compañero de al lado:  
+¿En dónde se tuvo el primer registro de este virus?  
+¿Cuál fue el primer lugar de América en el que se detectó zika?  
+¿En qué año fue la epidemia que se describe en este artículo?  
+¿Cuál es el ancestro más cercano a los virus de la epidemia?
+¿Cuántos sitios de microencefalia en Brasil reportaron?
+
+
+
+
 
 
