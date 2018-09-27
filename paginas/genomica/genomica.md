@@ -1,3 +1,2 @@
-seaview http://doua.prabi.fr/software/seaview  
-https://datacarpentry.org/genomics-workshop/  
-https://microreact.org/showcase  
+[Manejo de Datos Genómicos ](https://datacarpentry.org/genomics-workshop/)    
+[microReact](https://microreact.org/showcase)  
