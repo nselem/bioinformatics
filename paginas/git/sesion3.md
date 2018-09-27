@@ -5,7 +5,7 @@
 En esta sesión vamos a repasar google drive y grep y después crearemos nuestro repositorio de github.  
 
 ### Ejemplos de repaso    
-  -Ejemplo for. Vamos a leer una lista de sus nombres y voy a crear carpetas con ellos que les compartiré en el drive. 
+  -Ejemplo for. Vamos a leer una lista de sus nombres y voy a crear carpetas con ellos que les compartiré en el drive.  
   -Ejemplo script. Este for lo voy a poner en un script.   
   -Ejemplo grep Las secuencias que no contienen ACGT. Aqui puedes consultar [expresiones regulares](https://v4.software-carpentry.org/regexp/index.html).     
   -Ejemplo perl one liner Cambiar dueño Araceli por Bety  
