@@ -6,12 +6,16 @@ En esta sesión vamos a repasar google drive y grep y después crearemos nuestro
 
 ### Ejemplos de repaso    
   -Ejemplo for. Vamos a leer una lista de sus nombres y voy a crear carpetas con ellos que les compartiré en el drive.  
-  -Ejemplo script. Este for lo voy a poner en un script.    
-  `for line in $(cat $1|cut -d' ' -f1) ; do mkdir date-$line; done`  
-lista  
+  -Ejemplo script. Este for lo voy a poner en el script creaDirectorios.sh usando el editor nano.      
+  `for line in $(cat $1|cut -d' ' -f1) ; do mkdir date-$line; done`   
+    
+  Para ejecutarlo.  
+  `bash creaDirectorios.sh lista`  
+Ejemplo de archivo lista  
 > Nelly Selem  
 > Abraham Avelar  
 > Manu Vi  
+  
   -Ejemplo grep Las secuencias que no contienen ACGT. Aqui puedes consultar [expresiones regulares](https://v4.software-carpentry.org/regexp/index.html).     
   -Ejemplo perl one liner Cambiar dueño Araceli por Bety  
  
