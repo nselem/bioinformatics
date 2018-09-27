@@ -16,10 +16,24 @@ Microreact es una plataforma de visualización de datos especializado en epidemi
 
 Nosotros utilizaremos esta plataforma para ver los lugares y años donde nacimos todos nosotros!   
 
-### Ejercicio
-1) Ingresa a la [Hoja de cáculo de google drive ](https://docs.google.com/spreadsheets/d/1unage_MobPV6Rv006GFud4lxfiFEfm0mrZwa_KPIuEo/edit?usp=sharing) e ingresa tu nombre y fecha de nacimiento. 
-2) Abre [Google Maps  ](https://www.google.com.mx/maps)  
-3) Busca tu lugar de nacimiento 
-4) Da click derecho sobre el lugar del que quieres extraer las coordenadas. Debe aparecer un cuadrito en la parte inferior del mapa    
-5) Pulsa sobre las coordenadas que están abajo del cuadro  
-6) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso 1)  
+###   Ejercicio Primera parte
+Llena con tus datos la [Hoja de cáculo de google drive ](https://docs.google.com/spreadsheets/d/1unage_MobPV6Rv006GFud4lxfiFEfm0mrZwa_KPIuEo/edit?usp=sharing)
+  
+Para agregar las coordenadas de tu lugar de nacimiento:
+1) Abre [Google Maps  ](https://www.google.com.mx/maps)
+2) Busca tu lugar de nacimiento
+3) Da click derecho sobre el lugar del que quieres extraer las coordenadas. Debe aparecer un cuadrito en la parte inferior del mapa    
+4) Pulsa sobre las coordenadas que están abajo del cuadro
+5) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso 1)
+
+
+###   Ejercicio Segunda parte
+a) Abre [Microreact  ](https://microreact.org/)  
+b) Inicia sesión utilizando tu cuenta de gmail  
+c) Da click en Upload  
+d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Archivo->Publicar'
+d) Pega el link donde pide un archivo .csv
+e) da click en continue (without three)
+
+
+
