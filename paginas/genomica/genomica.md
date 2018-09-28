@@ -5,7 +5,7 @@
 2. Sube tu script a este repositorio   
 3. Haz un readme    
 4. Sube una imagen en ese repositorio
-5. Muestra la imagen en el readme. Puedes usar el tutorial de [markdown  ]()
+5. Muestra la imagen en el readme. Puedes usar el tutorial de [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
 
 La primera parte de la leccion de hoy será parte del programa de genómica de Software Carpentry: [Manejo de Datos Genómicos ](https://datacarpentry.org/genomics-workshop/) la segunda parte será un visualizador de datos genómicos: [microReact](https://microreact.org/showcase)  
 
