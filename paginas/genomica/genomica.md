@@ -24,7 +24,7 @@ Llena con tus datos la [Hoja de cáculo de google drive ](https://docs.google.co
 Para agregar las coordenadas de tu lugar de nacimiento:
 1) Abre [Google Maps  ](https://www.google.com.mx/maps)  
 2) Busca tu lugar de nacimiento  
-3) Da click derecho sobre el lugar del que quieres extraer las coordenadas. Debe aparecer un cuadrito en la parte inferior del mapa    
+3) Da click derecho sobre el lugar del que quieres extraer las coordenadas. Debe aparecer un cuadrito en la parte inferior del mapa    (Si no aparece utiliza click derecho -> ¿Qué hay aquí?)
 4) Pulsa sobre las coordenadas que están abajo del cuadro  
 5) Copia y pega la latitud y longitud en las columnas de la hoja de cálculo que abriste en el paso   
 
